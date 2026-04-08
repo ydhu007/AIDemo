@@ -1,6 +1,6 @@
-# AI Demo
+# AIDemo
 
-> 🔗 **[Live Demo](https://ai-demo-ydhu007.vercel.app)**
+> AI友好化全栈架构实践 | 🔗 **[Live Demo](https://ai-demo-ydhu007.vercel.app)**
 
 A full-stack web application built with Next.js, Supabase, and Tailwind CSS.
 
